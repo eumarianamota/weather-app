@@ -5,7 +5,6 @@ Um aplicativo web simples e interativo que exibe informações climáticas em te
 - Busca por cidades e países
 - Exibe temperatura, clima atual, umidade e vento
 - Suporte a diferentes regiões do mundo
-- Interface responsiva
 
 ## Tecnologias
 - HTML5
